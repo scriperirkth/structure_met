@@ -1,0 +1,1 @@
+py .\split_xml.py ".\УППСТР.xml" --mb 0.4 --out readable_400kb
