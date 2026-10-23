@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>939784c6-0289-46a9-8a6a-9da5cea261a7</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">0703a09b-528d-4d4a-b716-4aa9f48865e7</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>НМА</Description>
+		<Синоним>НМА</Синоним>
+		<Комментарий/>
+		<Вид>ТабличнаяЧасть</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

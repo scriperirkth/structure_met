@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>d59cf452-87a8-4ca3-a537-090ee9d00087</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">9938d740-7ed1-4a72-a39e-eac744626945</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>Ставка13</Description>
+		<Синоним>13%</Синоним>
+		<Комментарий/>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

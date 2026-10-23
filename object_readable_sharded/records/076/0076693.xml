@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>93eef7d0-da03-43cc-85c3-b3b3026eec5c</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">4c481954-8fa0-4dd5-b2ab-c741586d9780</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>Хозрасчетный</Description>
+		<Синоним>Журнал проводок (бухгалтерский учет)</Синоним>
+		<Комментарий>(Регл)</Комментарий>
+		<Вид>НаборДвиженийРегистраБухгалтерии</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

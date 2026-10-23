@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>98bfc7b4-7d6e-4ca7-8089-7c346c9229bb</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">f4b4a3f7-e0b2-425f-8cff-7539992c4060</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ОС</Description>
+		<Синоним>ОС</Синоним>
+		<Комментарий>(Общ)</Комментарий>
+		<Вид>ТабличнаяЧасть</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

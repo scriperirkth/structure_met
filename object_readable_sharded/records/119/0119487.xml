@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>e85bf0a8-b8f7-4647-8eb6-a6de4dbcc06d</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">35f502bb-4f94-4db0-89bf-f4482f971862</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПередачаУслуг</Description>
+		<Синоним>Документ о передаче результатов работ (об оказании услуг)</Синоним>
+		<Комментарий/>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

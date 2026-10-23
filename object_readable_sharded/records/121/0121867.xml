@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>d8a09e8a-d2d1-4196-a34d-5d7d9f0c5f37</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">b632664c-8b99-4be3-84aa-8231a1156125</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>НалогИсчисляетПокупатель</Description>
+		<Синоним>Налог исчисляет покупатель</Синоним>
+		<Комментарий/>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

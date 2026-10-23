@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>e27d11ca-74d0-4878-9d4e-5d16029f537a</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">9707e05c-ff52-4f12-b6c0-7ddba1917db5</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПоПериодамСИзменением</Description>
+		<Синоним>По периодам с изменением</Синоним>
+		<Комментарий/>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

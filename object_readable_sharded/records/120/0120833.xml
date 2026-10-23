@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>10798b85-007d-494a-b8a7-49344fc11e76</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">524ad68d-c69a-4004-97f6-3bc9da29cdd9</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ВозвратМатериаловИзПроизводстваФикс</Description>
+		<Синоним>Возврат материалов из производства по фиксированной стоимости</Синоним>
+		<Комментарий>(Общ)</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

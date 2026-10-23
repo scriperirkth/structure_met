@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>8977bdf0-db9a-4fae-ab71-e977e0b2ebfe</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">f2539c99-6d37-49ee-90d1-6e573f11f164</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ВыводитьСообщенияВПанельКомментариев</Description>
+		<Синоним>Выводить сообщения в панель комментариев</Синоним>
+		<Комментарий>Выводить сообщения в панель комментариев</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

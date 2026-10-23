@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>1fc71d01-4f24-4734-b830-6d7530fccb3e</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">e7fce551-6339-4eef-8cb1-5a2fbc402775</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ФизическиеЛица</Description>
+		<Синоним>Физические лица</Синоним>
+		<Комментарий/>
+		<Вид>ТабличнаяЧасть</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

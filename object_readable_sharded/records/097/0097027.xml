@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>82b5b8f6-9f0e-4250-a43c-133da44235ec</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">54bfe19a-09a3-4aaf-94c7-b55f93a223c4</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ВыпускПродукцииНалоговыйУчет</Description>
+		<Синоним>Выпуск продукции (налоговый учет)</Синоним>
+		<Комментарий>(Регл)</Комментарий>
+		<Вид>НаборДвиженийРегистраНакопления</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

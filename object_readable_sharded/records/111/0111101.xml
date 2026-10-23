@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>42b3f909-4081-446f-be84-8beb4cd2624b</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">31bcc9f5-ea09-4ab0-8f28-646c3fe3cd88</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ТоварыВНТТ</Description>
+		<Синоним>Товары в НТТ</Синоним>
+		<Комментарий>(Упр)</Комментарий>
+		<Вид>НаборДвиженийРегистраНакопления</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

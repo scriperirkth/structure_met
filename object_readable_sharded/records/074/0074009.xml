@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>f6d06134-7d09-48ac-8a7b-400b832cbc04</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">29e39094-bf19-4bfc-9bf2-275f16a7237f</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>РасчетыПоРеализацииВУсловныхЕдиницахОрганизации</Description>
+		<Синоним>Расчеты по реализации (бухгалтерский и налоговый учет)</Синоним>
+		<Комментарий>(Регл)</Комментарий>
+		<Вид>НаборДвиженийРегистраНакопления</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

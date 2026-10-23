@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>8bb73d62-ec36-4c30-9b54-aa889dc4abdd</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">ea9a61ea-0e8c-48b9-90cd-c2a613fb2c0e</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПлановыеУдержанияРаботниковОрганизаций</Description>
+		<Синоним>Плановые удержания сотрудников организаций</Синоним>
+		<Комментарий>(Регл)</Комментарий>
+		<Вид>НаборДвиженийРегистраСведений</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

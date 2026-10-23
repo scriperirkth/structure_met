@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>43067d45-1ab6-4a5f-9aea-cf8afd436c1f</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">1ce1cc22-57ae-4cb5-a813-9b5b6398f442</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ДС_ГостиницаЗанятостьМест</Description>
+		<Синоним>Занятость мест в гостинице</Синоним>
+		<Комментарий/>
+		<Вид>НаборДвиженийРегистраСведений</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

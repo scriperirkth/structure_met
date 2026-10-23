@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>26c43b7b-2e84-4eac-86dc-5b7eb16d449a</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">639487ca-d9bc-4c45-bc2c-793f32cb2dc6</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ОтсутствиеНаПериодВоеннойСлужбы</Description>
+		<Синоним>Отсутствие на период военной службы</Синоним>
+		<Комментарий>Отсутствие на период военной службы</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

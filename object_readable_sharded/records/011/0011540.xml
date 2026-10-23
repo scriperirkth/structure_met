@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>86f85d12-c76f-4dcf-a4b3-6cd46f6562e9</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">366963a1-64ef-4176-8aa2-09549c6c8d22</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПартииМатериаловВЭксплуатации</Description>
+		<Синоним>Партии материалов в эксплуатации (управленческий учет)</Синоним>
+		<Комментарий>(Упр)</Комментарий>
+		<Вид>НаборДвиженийРегистраНакопления</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

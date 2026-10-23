@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>7dd90983-1bd7-4ef8-b0da-b81fdef756cc</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">fe151fc0-ec19-4f90-b217-9c000b1c7a72</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>НДСКосвенныеРасходы</Description>
+		<Синоним>НДС по косвенным расходам</Синоним>
+		<Комментарий>(Регл) для учета входного НДС, приходящегося на косвенные расходы по производству и реализации</Комментарий>
+		<Вид>НаборДвиженийРегистраНакопления</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

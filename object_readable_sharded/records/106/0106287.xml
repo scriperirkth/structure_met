@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>6bd59e9b-dc1b-4dd9-beab-fe6457c9da56</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">33d5b783-53f6-415d-b405-03b9235d3340</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПараметрыАмортизацииОСНалоговыйУчет</Description>
+		<Синоним>Параметры амортизации (налоговый учет)</Синоним>
+		<Комментарий>(Регл)</Комментарий>
+		<Вид>НаборДвиженийРегистраСведений</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

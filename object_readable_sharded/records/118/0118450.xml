@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>2c160841-80d7-4019-883e-1e2c37645e1c</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">3448a5dc-6d9f-4fe3-aa11-f4f2fa3dae6e</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПредпринимательскаяДеятельностьНеОблагаемаяЕНВД</Description>
+		<Синоним>Не ЕНВД (Предпринимательская деятельность, не облагаемая ЕНВД)</Синоним>
+		<Комментарий/>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

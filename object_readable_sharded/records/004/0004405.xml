@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>766a600b-f19e-4f39-a5e4-f8ef3320a272</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">af2c28dd-28ea-4b6c-b5fd-4b224cc96e50</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>СтатистикаФорма1ТОРГсеть</Description>
+		<Синоним>Форма 1-ТОРГ(сеть)</Синоним>
+		<Комментарий>Форма 1-ТОРГ(сеть)</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

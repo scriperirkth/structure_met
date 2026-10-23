@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>ae612d1d-d8e4-4458-a80f-f9e7c53970f7</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">1cf31c5f-66ac-4da5-bb8f-c6df18d1210c</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>СпособыОтраженияРасходовПоАмортизацииОС</Description>
+		<Синоним>Способы отражения расходов по амортизации ОС</Синоним>
+		<Комментарий>(Упр) Регистр, который показывает изменение направлений амортизации по упр. учету</Комментарий>
+		<Вид>НаборДвиженийРегистраСведений</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

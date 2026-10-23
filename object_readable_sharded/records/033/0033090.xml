@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Свойства>
+		<Ref>9001d21d-d03e-477f-80a3-17bd3eacc48a</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">a5beb418-bf04-4768-b351-12132a692aa8</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>НачислениеАмортизацииОС</Description>
+		<Синоним>Начисление амортизации (управленческий учет)</Синоним>
+		<Комментарий>(Упр) Регистр, который показывает когда начислять амортизацию по упр. учету</Комментарий>
+		<Вид>НаборДвиженийРегистраСведений</Вид>
+		<ТипыСтрокой/>
+		<Типы/>
+	</CatalogObject.Свойства>
+</Конфигурация>

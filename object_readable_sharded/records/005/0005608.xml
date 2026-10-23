@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>ca454a23-79a9-4ba8-89ca-f332e6e28bc3</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">11fd1012-a738-43bb-af23-03bb955fcf27</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ДрайверСчетмашККТ54ФЗ</Description>
+		<Синоним>Счетмаш:ККТ с передачей данных в ОФД (54-ФЗ)</Синоним>
+		<Комментарий>Счетмаш:ККТ с передачей данных в ОФД (54-ФЗ)</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

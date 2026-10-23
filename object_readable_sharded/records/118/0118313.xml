@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>3f0fbee2-b94f-4498-8674-1f50c4ae9629</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">431fb03f-1f4e-4028-8c62-eec74cb9db63</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ДляОсобоЖесткихАгрессивныхУсловийРаботы</Description>
+		<Синоним>Для особо жестких агрессивных условий работы - ОЖ</Синоним>
+		<Комментарий>ОЖ</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

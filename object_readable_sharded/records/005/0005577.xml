@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>edd655e4-f743-42a4-83f9-18c9765d4b38</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">11fd1012-a738-43bb-af23-03bb955fcf27</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ДрайверГАЗПРОМБАНКЭквайринговыеТерминалы</Description>
+		<Синоним>ГАЗПРОМБАНК:Эквайринговые терминалы</Синоним>
+		<Комментарий>ГАЗПРОМБАНК:Эквайринговые терминалы</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

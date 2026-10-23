@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>b68f1bc2-68cd-4947-b7ec-6e4048816f6a</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">eaafb792-a9cc-4c7f-b301-28d6f89efc45</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>Содействие3517</Description>
+		<Синоним>ч. 4 ст. 351.7 (Содействие)</Синоним>
+		<Комментарий>ч. 4 ст. 351.7 (Содействие)</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

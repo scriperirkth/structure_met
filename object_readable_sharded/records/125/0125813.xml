@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>d6ccc8ac-e6b9-478e-9bd1-eb8997f0ec24</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">a3d36b87-69eb-4044-bd4b-d4a73e971f82</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ЗадолженностьПоРасчетамЗаНедвижимость</Description>
+		<Синоним>62.ОС</Синоним>
+		<Комментарий>Задолженность по расчетам за недвижимость</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

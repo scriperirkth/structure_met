@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>5c6e2afe-0a15-4504-927f-5ca6c71bb2e9</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">b8652b4f-0a6f-4137-bc09-aba68bbc69a3</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ТДДЛКОМИС</Description>
+		<Синоним>ТДДЛ-КОМИС  </Синоним>
+		<Комментарий>Пункт 1 части 4 и пункт 1 части 5 статьи 6, части 1 и 7 статьи 8 Федерального закона от 17 февраля 2</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

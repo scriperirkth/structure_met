@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>79cb5251-e7e2-49ff-bcf1-a15d728c2cd5</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">a0c9b72e-d768-4ef9-ba4c-6426bf66b238</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ОбработчикШтрихМДисплеиПокупателя</Description>
+		<Синоним>ШТРИХ-М:Дисплеи покупателя</Синоним>
+		<Комментарий>ДисплейПокупателя</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>c50a3c9a-efa4-4383-86b5-4e99581b3103</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">af2c28dd-28ea-4b6c-b5fd-4b224cc96e50</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ЗаявлениеОГибелиТранспортногоСредства</Description>
+		<Синоним>Заявление о гибели транспортного средства</Синоним>
+		<Комментарий>Заявление о гибели транспортного средства</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

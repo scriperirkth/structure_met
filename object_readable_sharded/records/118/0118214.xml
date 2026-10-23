@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>ca0f6f9e-7fb5-4d38-96f2-62630213120f</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">a7c7ebe3-6bc5-459f-b41c-6c26247489f9</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>Нерезидент</Description>
+		<Синоним>Нерезидент (п.2 ст.161 НК РФ)</Синоним>
+		<Комментарий>Договор с контрагентом (иностранной компанией) не являющимся плательщиком НДС</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Объекты>
+		<Ref>e9677a71-8cfd-4df7-8274-7f363fd731ec</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Конфигурации">cc97909e-2794-4353-ba05-251083a6dddb</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Description>Документы</Description>
+		<Имя>Документы</Имя>
+		<Синоним>Документы</Синоним>
+		<Комментарий/>
+		<Тип/>
+	</CatalogObject.Объекты>
+</Конфигурация>

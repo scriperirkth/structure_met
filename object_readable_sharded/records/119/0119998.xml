@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>d9e770d0-c612-4dac-b6d1-e7cd2670ed9d</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">cc60d6d9-c766-4295-926d-9e627c93bf7f</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ИмуществоСУчетомНДС</Description>
+		<Синоним>Имущество с учетом НДС</Синоним>
+		<Комментарий>Имущество, в балансовую стоимость которого входит НДС, уплаченный ранее поставщикам данного имущества</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

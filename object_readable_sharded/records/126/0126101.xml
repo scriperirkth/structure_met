@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>693e7cde-6dcf-48c4-b23b-6ff446c3f3e6</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">a3e5e483-91ab-4b31-a1dd-045c16b77835</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>НДСуплачиваемыйТаможеннымОрганам</Description>
+		<Синоним>19.05</Синоним>
+		<Комментарий>Налог на добавленную стоимость, уплачиваемый таможенным органам по ввозимым товарам</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

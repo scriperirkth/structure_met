@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>adc87e3d-ee09-4720-bc39-d267ee4c6800</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">bb886469-d127-4f58-80eb-295781f8a0a0</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>Код503</Description>
+		<Синоним>503    </Синоним>
+		<Комментарий>Вычет из суммы материальной помощи, оказываемой работодателями своим работникам, а также бывшим своим работникам-пенсионерам</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

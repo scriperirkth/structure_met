@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Объекты>
+		<Ref>c082fffe-bd27-4806-9ba2-ee02d291a6a8</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Конфигурации">cc97909e-2794-4353-ba05-251083a6dddb</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Description>БизнесПроцессы</Description>
+		<Имя>Бизнес-процессы</Имя>
+		<Синоним>БизнесПроцессы</Синоним>
+		<Комментарий/>
+		<Тип/>
+	</CatalogObject.Объекты>
+</Конфигурация>

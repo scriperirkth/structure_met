@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>977c9227-e6b8-4dda-baa8-8c0bb9a67118</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">11fd1012-a738-43bb-af23-03bb955fcf27</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ДрайверSKAM1CЭквайринговыеСистемы</Description>
+		<Синоним>SKAM-1C: Эквайринговые системы</Синоним>
+		<Комментарий>SKAM-1C: Эквайринговые системы</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

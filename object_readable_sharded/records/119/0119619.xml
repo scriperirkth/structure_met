@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>f4112872-5892-4204-a934-ad46dc6c5c5c</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">6eea29a7-adf6-439d-b2bc-ec54ea9d0191</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ШестаяГруппа</Description>
+		<Синоним>Шестая группа (свыше 10 лет до 15 лет включительно)</Синоним>
+		<Комментарий>Имущество со сроком полезного использования свыше 10 лет до 15 лет включительно</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

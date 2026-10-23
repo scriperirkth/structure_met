@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>ca1e7870-b1fa-46c6-8ff5-4cb7616d6254</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">17894707-060b-46da-b435-6c61c194e270</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>Ст28_ОС</Description>
+		<Синоним>28-ОС   </Синоним>
+		<Комментарий>Работа с осужденными в качестве рабочих и служащих учреждений, исполняющих уголовные наказания</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

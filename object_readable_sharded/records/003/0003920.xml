@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>2a0f8acf-e1fd-42db-a5d6-959205d55486</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">b8652b4f-0a6f-4137-bc09-aba68bbc69a3</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПЕРЕСМОТР</Description>
+		<Синоним>ПЕРЕСМОТР   </Синоним>
+		<Комментарий>Период пребывания в местах заключения сверх срока, назначенного при пересмотре дела</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

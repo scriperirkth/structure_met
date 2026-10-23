@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>c1530899-82c3-426d-92f8-912e8b1defb2</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">cc60d6d9-c766-4295-926d-9e627c93bf7f</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>АвансыПолученные</Description>
+		<Синоним>Авансы полученные</Синоним>
+		<Комментарий>для учета НДС, исчисленного с полученных авансов, кроме НДС с авансов под будущие поставки с 0%</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>c8c2e0ce-16a8-419e-bcf0-eeff5099e9bf</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">17894707-060b-46da-b435-6c61c194e270</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ЗП12Ж</Description>
+		<Синоним>ЗП12Ж   </Синоним>
+		<Комментарий>Работа на лесозаготовках и лесосплаве, включая обслуживание механизмов и оборудования</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

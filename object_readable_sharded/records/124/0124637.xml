@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>c4bda37e-b84d-4fcf-ad59-5b08208fd31c</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">0af14bd8-f112-49e1-8c3d-424ed33c8527</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>Справочник_ДоговорыКонтрагентов</Description>
+		<Синоним>Справочник "Договоры контрагентов"</Синоним>
+		<Комментарий>Справочник "Договоры контрагентов"</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

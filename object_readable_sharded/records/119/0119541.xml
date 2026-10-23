@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>0cb00b24-8b35-4ba3-b54b-ef3c187aa07d</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">9b9c1fa9-316c-414a-a255-fa7f37185166</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>КурсовыеРазницыПоРасчетамВУЕ</Description>
+		<Синоним>Курсовые разницы по расчетам в у.е.</Синоним>
+		<Комментарий>Курсовые разницы по расчетам в у.е.</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

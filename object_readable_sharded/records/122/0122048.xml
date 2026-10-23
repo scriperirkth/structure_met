@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>5db94c83-6f70-4fa0-8b97-1c763fadde09</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">dd96907e-b2b6-46cf-9877-aaacb5656e4f</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>БольничныйВ2011годуКакВ2010мСОбщимОграничениемИВРазмереММОТ</Description>
+		<Синоним>Больничный в 2011 году как в 2010 м с общим ограничением и в размере ММОТ</Синоним>
+		<Комментарий/>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

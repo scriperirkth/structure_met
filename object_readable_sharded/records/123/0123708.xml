@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>4b500af0-0b2f-4944-b9a3-c960ab2e3288</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">1cfd5e0e-c7cf-4d63-83fa-fc99c53ad89f</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ОтпускПоБеременностиИРодамПоУходуЗаРебенкомНовыйСтраховойСлучай</Description>
+		<Синоним>Отпуск по беременности и родам, по уходу за ребенком, новый страховой случай</Синоним>
+		<Комментарий/>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>a6297576-732c-4447-8147-ba2fa49ee74d</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">c62ae180-7bf7-41a5-80cc-0db2c850ea69</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ДополнительныеВыходныеДниОплачиваемые</Description>
+		<Синоним>Дополнительные выходные дни (оплачиваемые)</Синоним>
+		<Комментарий>Дополнительные выходные дни (оплачиваемые)</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

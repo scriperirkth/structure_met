@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>78eaf5d1-4a8f-45f9-b926-d1dec7e01bc8</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">41fe41db-eebc-4d51-812c-8606a241170d</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ФилиалыУправленческиеРасходыНеЕНВД</Description>
+		<Синоним>Филиалы управленческие расходы не ЕНВД</Синоним>
+		<Комментарий>Филиалы управленческие расходы не ЕНВД</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>26b7bdf6-6e8e-4f11-b6f7-39e177f9e719</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">a0c9b72e-d768-4ef9-ba4c-6426bf66b238</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ОбработчикАтолДисплеиПокупателя</Description>
+		<Синоним>АТОЛ:Дисплеи покупателя</Синоним>
+		<Комментарий>ДисплейПокупателя</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

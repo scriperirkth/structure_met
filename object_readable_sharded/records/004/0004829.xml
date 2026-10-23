@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>ec8f06ab-8a09-44d9-91d5-61c8dcaf01ad</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">bb886469-d127-4f58-80eb-295781f8a0a0</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>Код123</Description>
+		<Синоним>144/123</Синоним>
+		<Комментарий>В двойном размере на второго ребенка до 18 лет, на учащегося очной формы обучения до 24 лет при отказе второго родителя от вычета</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

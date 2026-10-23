@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>84da049a-d8fc-43bd-9c7b-e2252a4f4779</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">4c522817-e009-454d-b437-5019e0cf089c</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>РегламентированнаяФормаДСВ</Description>
+		<Синоним>Справка по ДСВ, форма по КНД 1151087</Синоним>
+		<Комментарий>Справка по ДСВ, форма по КНД 1151087</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

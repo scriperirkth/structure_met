@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>2d520b02-b0c5-443b-bd1f-2efa0573a66d</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">4d00812d-997d-4dd4-9790-d68f1a04c21c</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПоСреднемуЗаработкуДляОтпускаПоШестидневкеРК</Description>
+		<Синоним>По среднему заработку для отпуска при расчете из рабочих дней РК</Синоним>
+		<Комментарий>(Регл)</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

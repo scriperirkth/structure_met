@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>cb5f1a7f-30ed-416b-aff1-2f3949df04cf</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">afb85a89-1e19-4487-a6b4-d38350dc2a26</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>КредитыДолгосрочныеБезПроцентовНеВалютные</Description>
+		<Синоним>40111</Синоним>
+		<Комментарий>Долгосрочные кредиты без учета процентов в валюте отчетности</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

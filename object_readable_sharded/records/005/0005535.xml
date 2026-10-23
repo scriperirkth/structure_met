@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>b73f7dbb-0b0b-4c99-bad3-338c09761219</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">11fd1012-a738-43bb-af23-03bb955fcf27</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>Драйвер1ССканерыШтрихкодаNative</Description>
+		<Синоним>1С:Сканеры штрихкода (NativeApi)</Синоним>
+		<Комментарий>1С:Сканеры штрихкода (NativeApi)</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

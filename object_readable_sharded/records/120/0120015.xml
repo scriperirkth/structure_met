@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>4e63dc2d-3373-410d-96f0-4f7560f80eaa</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">cc60d6d9-c766-4295-926d-9e627c93bf7f</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ТаможенныеПлатежи</Description>
+		<Синоним>Таможенные платежи</Синоним>
+		<Комментарий>для учета НДС, уплаченного налогоплательщиком при ввозе на территорию России товаров</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

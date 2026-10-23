@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>398d0252-3d3e-4f7b-be6e-8d0c9ae52cd6</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">e04a7bd4-bcb1-456a-8f6a-e111be6462b1</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПособиеВСвязиСНесчастнымСлучаемНаПроизводстве</Description>
+		<Синоним>Пособие по временной нетрудоспособности в связи с несчастным случаем на производстве или профессиональным заболеванием</Синоним>
+		<Комментарий/>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

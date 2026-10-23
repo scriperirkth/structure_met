@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>b7aba430-c791-41e0-a1fb-2ac683d34872</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">6eea29a7-adf6-439d-b2bc-ec54ea9d0191</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ЧетвертаяГруппа</Description>
+		<Синоним>Четвертая группа (свыше 5 лет до 7 лет включительно)</Синоним>
+		<Комментарий>Имущество со сроком полезного использования свыше 5 лет до 7 лет включительно</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

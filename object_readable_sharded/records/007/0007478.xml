@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>39ff007c-b8aa-4c55-b3fc-69b77f7b476e</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">90cde30a-9a78-463f-a5fa-7a89a7a025c3</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>УЧЛЕТ</Description>
+		<Синоним>УЧЛЕТ    </Синоним>
+		<Комментарий>Работа в должностях летного состава в учебных и спортивных авиационных организациях</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

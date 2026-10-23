@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>7a65ebcc-9044-4f90-a4c6-410de74ba852</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">17894707-060b-46da-b435-6c61c194e270</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>Ст27_8</Description>
+		<Синоним>27-8    </Синоним>
+		<Комментарий>Работа в качестве механизаторов (докеров-механизаторов) компл-ных бригад на погрузочно-разгруз. раб.</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>b76be2db-0236-44b5-b8b5-d352dd060961</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">43195677-5f45-4767-ad3b-333773d4766c</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>КодТовараВФорматеЕГАИС3</Description>
+		<Синоним>ЕГАИС 3.0</Синоним>
+		<Комментарий>Код товара в кодировке ЕГАИС 3.0 в формате Data Matrix</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

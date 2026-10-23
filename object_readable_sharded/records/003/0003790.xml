@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>ec2843a5-f32d-4059-b48a-8d12244c1595</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">ecc037b2-5308-4be0-9691-c9e86ea72e90</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>СведенияОСтавкахЕСНиПФР</Description>
+		<Синоним>Сведения о ставках ЕСН и ПФР (до 2010 года)</Синоним>
+		<Комментарий>Сведения о ставках ЕСН и ПФР (до 2010 года)</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

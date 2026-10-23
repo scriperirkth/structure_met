@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>1644dcdb-782b-4751-b29a-4fee25126fc3</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">6eea29a7-adf6-439d-b2bc-ec54ea9d0191</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ДевятаяГруппа</Description>
+		<Синоним>Девятая группа (свыше 25 лет до 30 лет включительно)</Синоним>
+		<Комментарий>Имущество со сроком полезного использования свыше 25 лет до 30 лет включительно</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

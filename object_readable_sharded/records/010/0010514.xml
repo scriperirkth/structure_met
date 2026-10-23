@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>938e3ec4-d6d2-4377-a63d-a5cd64ef2c27</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">cb067971-e7ee-474c-afc0-94acb3685090</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ДАВТФЛНС</Description>
+		<Синоним>Договор авторского заказа, страхование от несчастных случаев</Синоним>
+		<Комментарий>Договор авторского заказа, страхование от несчастных случаев</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

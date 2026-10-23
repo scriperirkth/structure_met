@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>efcb1a6e-e362-4941-ab8f-99e0d1803b6b</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">f6989d16-f003-461a-b733-546a1936cbc8</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ВИРУС</Description>
+		<Синоним>ВИРУС  </Синоним>
+		<Комментарий>Медицинские работники, занятые оказанием медпомощи пациентам с коронавирусной инфекцией COVID-19</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

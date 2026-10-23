@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>bcd0422a-1635-42a4-b9a9-89a4e07689a3</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">d125a97b-58fc-4669-a04f-f64ec2173c98</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПеренаправлятьСообщенияПриНеактивности</Description>
+		<Синоним>Перенаправлять сообщения при неактивности</Синоним>
+		<Комментарий>Перенаправлять сообщения при неактивности</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

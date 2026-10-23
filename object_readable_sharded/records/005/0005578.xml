@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>4e3e07b2-6235-420b-83fc-a803be71629f</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">11fd1012-a738-43bb-af23-03bb955fcf27</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ДрайверГексагонПринтераЭтикеток</Description>
+		<Синоним>Гексагон:Принтера этикеток Zebra,Proton,Toshiba-TEC,Datamax-O neil</Синоним>
+		<Комментарий>Гексагон:Принтера этикеток Zebra,Proton,Toshiba-TEC,Datamax-O neil</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

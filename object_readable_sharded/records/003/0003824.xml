@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>242c1781-c69b-44bf-8986-ff499fe3ea0f</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">1ca35912-1e19-4f2a-8fe9-91d8bc4f5d69</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>СлужебныйАдресЭлектроннойПочтыПользователя</Description>
+		<Синоним>Служебный адрес электронной почты пользователя</Синоним>
+		<Комментарий>Служебный адрес электронной почты пользователя</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

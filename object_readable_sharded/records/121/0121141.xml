@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>c3f9e6c5-1c1d-483f-a44d-edd6c996e3c8</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">a0c9b72e-d768-4ef9-ba4c-6426bf66b238</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ОбработчикДримкасККТ54ФЗ</Description>
+		<Синоним>Дримкас:ККТ с передачей данных в ОФД Вики Принт (54-ФЗ)</Синоним>
+		<Комментарий>ККТ</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>7c6f2e9b-4829-46a3-aa15-f381f4a8b49a</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">f7e5b7c9-aa37-48d2-899a-ea2080d62630</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>АктПостановкиНаБалансСправки12</Description>
+		<Синоним>Акт постановки на баланс справки 1 и 2</Синоним>
+		<Комментарий>Акт постановки на баланс справки 1 и 2</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

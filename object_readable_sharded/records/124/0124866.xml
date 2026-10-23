@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>9790c742-7aac-4213-8e0e-f03eb54d31d8</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">32b75e0a-2945-4348-9a64-d6a3bc9f58d0</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>РазрешитьНулевыеЦеныВРознице</Description>
+		<Синоним>Разрешить нулевые цены в розничной торговле</Синоним>
+		<Комментарий>Разрешить нулевые цены в розничной торговле</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

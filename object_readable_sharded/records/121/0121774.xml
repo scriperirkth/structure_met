@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>a2297a55-485b-4f38-adb1-fabbb05b4424</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">437bc8f2-edec-4d40-afae-ca8cdcf15b0e</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ВыгружатьПриНеобходимости</Description>
+		<Синоним>Выгружать при необходимости</Синоним>
+		<Комментарий>Выгрузка без использования фильтров, но с контролем ссылочной целостности выгружаемых данных</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

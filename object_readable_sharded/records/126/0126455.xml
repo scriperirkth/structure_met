@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>e2c39efd-115d-44b2-bde8-4fb10633b7d8</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">639487ca-d9bc-4c45-bc2c-793f32cb2dc6</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПочасовойПростойТарифЧасовой</Description>
+		<Синоним>Оплата почасового простоя по часовому тарифу</Синоним>
+		<Комментарий>Оплата почасового простоя по часовому тарифу</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

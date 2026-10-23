@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>d634702a-5b9b-4cb9-92fe-6adc50e16c99</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">d06c1597-3fe7-4f05-9dfc-ddcbc119e3ad</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПостоянноПроживающиеИностранцы</Description>
+		<Синоним>Иностранные граждане, приравненные к гражданам РФ (постоянно проживающие, признанные беженцами, граждане страны-участника Договора о ЕАЭС)</Синоним>
+		<Комментарий/>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>6d23c1ea-c6df-4eb6-9f06-872905a93c9b</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">32b75e0a-2945-4348-9a64-d6a3bc9f58d0</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>РапортРуководителю_ОборотныеСредства</Description>
+		<Синоним>Рапорт руководителю: группа оборотные средства</Синоним>
+		<Комментарий>Рапорт руководителю: группа оборотные средства</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

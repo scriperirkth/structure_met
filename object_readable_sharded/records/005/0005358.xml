@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>2ec967be-0663-415e-a9de-0de6162f8799</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">1535ffc3-3f0c-47ce-b05c-5f4c8c0010c7</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ДоговораГПХ</Description>
+		<Синоним>Договоры гражданско-правового характера (п.3 ст.238 НК РФ)</Синоним>
+		<Комментарий>Договоры гражданско-правового характера (п.3 ст.238 НК РФ)</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

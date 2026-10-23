@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>68ef0ee5-7092-49bf-abb8-7c9ae6fd0b74</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">67bf98c2-dea2-4f2f-a92c-d7374cf88602</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>РезервЗадолженностьСвязанныхСторонТекущая</Description>
+		<Синоним>20722</Синоним>
+		<Комментарий>Резерв задолженность связанных сторон, текущая</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

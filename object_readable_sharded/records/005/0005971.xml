@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>4fe008cb-ffa7-4d90-b0ca-e1aaa39f1d0f</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">7cf39eb3-5d76-4be9-93cd-9fe19b10b3fb</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>СостояниеЗаказаНаWEBСайтеДоставкаРазрешена</Description>
+		<Синоним>Состояние заказа на WEB-сайте: Доставка разрешена</Синоним>
+		<Комментарий>Состояние заказа на WEB-сайте: Доставка разрешена</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

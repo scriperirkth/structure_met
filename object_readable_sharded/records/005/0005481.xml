@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>647c47a8-6b95-4afa-a14e-b639d512fac0</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">d4dffd6d-93c9-467b-834c-e3d05a9c0fa2</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>НеЯвляетсяОбъектом</Description>
+		<Синоним>Доходы, не являющиеся объектом обложения страховыми взносами </Синоним>
+		<Комментарий>Доходы, не являющиеся объектом обложения страховыми взносами </Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

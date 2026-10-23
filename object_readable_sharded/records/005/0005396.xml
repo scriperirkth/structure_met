@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>f7ac0571-dbbf-45a4-bdac-1015ac8a0261</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">f5dd3849-047e-4700-8b46-d4be97802352</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>Код3033</Description>
+		<Синоним>3033                </Синоним>
+		<Комментарий>Доходы от отчуждения ЦФА и/или цифр.права, включающего и ЦФА и утилитарное цифр.право, в том числе в результате мены</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

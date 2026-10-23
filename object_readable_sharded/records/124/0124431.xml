@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Объекты>
+		<Ref>8ca5b55c-19b8-4ee8-abd7-ea20d9d2adcb</Ref>
+		<IsFolder>true</IsFolder>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Конфигурации">cc97909e-2794-4353-ba05-251083a6dddb</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Description>ПланыВидовХарактеристик</Description>
+		<Имя>Планы видов характеристик</Имя>
+		<Синоним>ПланыВидовХарактеристик</Синоним>
+		<Комментарий/>
+		<Тип/>
+	</CatalogObject.Объекты>
+</Конфигурация>

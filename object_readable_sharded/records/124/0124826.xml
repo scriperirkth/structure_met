@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>b8e9150d-9ba1-490c-8e7c-23dbb1b2380f</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">32b75e0a-2945-4348-9a64-d6a3bc9f58d0</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>РассчитыватьДолгПриОткрытииФорм</Description>
+		<Синоним>Рассчитывать долг при открытии форм</Синоним>
+		<Комментарий>Рассчитывать долг при открытии форм</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

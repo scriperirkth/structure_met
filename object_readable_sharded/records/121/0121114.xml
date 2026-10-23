@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>305cf469-9f17-4ebf-b460-73bc1b3a2aa8</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">a0c9b72e-d768-4ef9-ba4c-6426bf66b238</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ОбработчикКристаллСервисФискальныеРегистраторыPirit</Description>
+		<Синоним>Кристалл Сервис:Фискальные регистраторы Pirit</Синоним>
+		<Комментарий>ФискальныйРегистратор</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

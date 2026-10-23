@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>a9f6adff-996f-4a01-b9aa-2efcc0a1a227</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">bb886469-d127-4f58-80eb-295781f8a0a0</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>Код111</Description>
+		<Синоним>142/122</Синоним>
+		<Комментарий>В двойном размере на первого ребенка до 18 лет, на учащегося очной формы обучения до 24 лет при отказе второго родителя от вычета</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

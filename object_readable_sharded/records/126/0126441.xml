@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>0fb61e7b-1b3e-4d41-b3aa-a07a84718b72</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">639487ca-d9bc-4c45-bc2c-793f32cb2dc6</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ОтпускБезОплатыПоТКРФ</Description>
+		<Синоним>Отпуск без оплаты согласно ТК РФ</Синоним>
+		<Комментарий>Отпуск без оплаты согласно ТК РФ</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>b2acc42e-9eb1-4b76-b183-0f7a7abf4d71</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">a5a27022-0bb2-4122-99d3-8b9f1d12ba4e</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ОтработанноеВПределахНормы</Description>
+		<Синоним>Отработанное время в пределах нормы времени</Синоним>
+		<Комментарий>Начисление за работу полную рабочую смену в пределах нормы времени</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

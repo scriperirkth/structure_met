@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>630c82d5-febb-4ae3-b2f7-ac8a5a59fd07</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">b8652b4f-0a6f-4137-bc09-aba68bbc69a3</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ТДУЗХКОМИС</Description>
+		<Синоним>ТДУЗХ-КОМИС </Синоним>
+		<Комментарий>Пункт 2 части 4 и пункт 2 части 5 статьи 6, части 1 и 7 статьи 8 Федерального закона от 17 февраля 2</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

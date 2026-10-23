@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>ddce4c28-b40f-43c8-9c7e-478b29f7723a</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">6e1dbfa7-9468-4931-b1cc-ac43afa5c821</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ГрупповыеУпаковки</Description>
+		<Синоним>Групповые упаковки</Синоним>
+		<Комментарий>Бутылки, потребительские упаковки (ИС МП), пачки (МОТП), блоки без детализации состава (МОТП)</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

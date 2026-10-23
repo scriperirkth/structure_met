@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>d887cc70-0208-414c-85c1-5b12a6cfccd3</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">d06c1597-3fe7-4f05-9dfc-ddcbc119e3ad</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ВременноПребывающиеИностранцыСДолгосрочнымиДоговорами</Description>
+		<Синоним>Иностранные граждане, временно пребывающие на территории РФ, с которыми заключены долгосрочные трудовые договоры</Синоним>
+		<Комментарий/>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>ba1a75d1-b1f8-4fee-a85d-91caea4d3e19</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">69d83fb2-86aa-46a4-b9ee-bf4ac05f8bbe</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПериодОбработкиОчередиКоманд</Description>
+		<Синоним>Период обработки очереди команд (сек)</Синоним>
+		<Комментарий>Период обработки очереди команд (сек)</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

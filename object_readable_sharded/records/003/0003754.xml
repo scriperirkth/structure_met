@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>4ecf5b6d-7c57-49d1-bb43-9f9f549c31c2</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">0164d678-7217-476d-9190-286b62c62195</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ТранспортнаяНакладная</Description>
+		<Синоним>Транспортная накладная (форма "ТОРГ-12")</Синоним>
+		<Комментарий>Транспортная накладная (форма "ТОРГ-12")</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>9924f373-8f46-4c8e-8cab-197d56c497d9</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">9e97dfef-1cc5-4778-9aa1-a3e4f5f7a2ad</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ОшибкаРежимПечатиЧека</Description>
+		<Синоним>Выполнение данного действия невозможно в режиме печати чека</Синоним>
+		<Комментарий>Необходимо закрыть или аннулировать чек и повторить попытку ещё раз.</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

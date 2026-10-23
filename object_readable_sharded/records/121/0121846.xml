@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>5c80c8d9-8a2c-463a-bf89-e738decb2f42</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">1ddc4e04-ab2e-40d6-b9d2-fdd5c065b2d6</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ОСВведеноВЭксплуатацию</Description>
+		<Синоним>ОС введено в эксплуатацию</Синоним>
+		<Комментарий>факт ввода ОС, к которому относится НДС, в эксплуатацию</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

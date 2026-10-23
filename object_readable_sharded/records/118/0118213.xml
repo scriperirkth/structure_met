@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>7e8dc14e-ca2f-47f7-a047-d46ca78e6c94</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">a7c7ebe3-6bc5-459f-b41c-6c26247489f9</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>РеализацияИмущества</Description>
+		<Синоним>Реализация имущества (абзац 2 п. 3 ст.161 НК РФ)</Синоним>
+		<Комментарий>Договор покупки государственного или муниципального имущества</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

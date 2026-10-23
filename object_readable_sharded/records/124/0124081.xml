@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>dbe85c9f-9ce4-4ab9-a4ac-16815efcbf12</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">ad22e913-95bf-4f4f-84c6-ffb8248bd1ae</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ОшибкаЗагрузкиДрайвера</Description>
+		<Синоним>Не удалось загрузить драйвер торгового оборудования</Синоним>
+		<Комментарий>Необходимо проверить корректность установки драйвера.</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

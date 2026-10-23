@@ -1,0 +1,15 @@
+{
+  "status": "REPACKED",
+  "files_from_source": 270915,
+  "xml_records": 126789,
+  "xml_bytes_preserved": true,
+  "local_markdown_links_checked": 3413375,
+  "source_sha256": "5867b4f5d73fc8fdbc8d0971cd506ca25d3579059a80cad222016a4de9abbd9a",
+  "source_build_status": "BUILT_WITH_WARNINGS",
+  "warnings": [
+    "UNRESOLVED_OR_AMBIGUOUS_UUID_LINKS",
+    "UNRECOGNIZED_TOP_LEVEL_TAGS_PRESERVED",
+    "OVERSIZE_XML_ELEMENTS_NOT_SPLIT"
+  ],
+  "limits": "Checks link paths, not anchor existence or business completeness. No 1C execution."
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>5b07ecf1-4b06-441a-b2b7-0a6f1a925c65</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">c22e1653-c6d7-4682-ba6c-022da5ab4131</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ВнеплановыйРемонт</Description>
+		<Синоним>Работа двигателя (Бодайбо, Каз-Ленск)</Синоним>
+		<Комментарий>Работа двигателя (Бодайбо, Каз-Ленск)</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

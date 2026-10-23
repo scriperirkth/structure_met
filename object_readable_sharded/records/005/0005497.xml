@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>cf836226-4446-4bd2-a76e-ce21394432f5</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">d4dffd6d-93c9-467b-834c-e3d05a9c0fa2</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ОблагаетсяЦеликом</Description>
+		<Синоним>Доходы, целиком облагаемые страховыми взносами</Синоним>
+		<Комментарий>Доходы, целиком облагаемые страховыми взносами</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>1d9303ed-da8b-46ca-b335-bbb7b9318047</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">b28fc642-5405-46da-bdd6-a5768dfa3df7</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>УпрощенныйНалоговыйРежим</Description>
+		<Синоним>Организации, применяющие УСН, кроме указанных в подпункте 5 пункта 1 статьи 427 НК РФ (ранее - в пункте 8 части 1 статьи 58 ФЗ от 24.07.2009 № 212-ФЗ)</Синоним>
+		<Комментарий/>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>9a57259a-a89c-446a-bc4b-9d68a0e338fa</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">f88da1b7-f8ba-401e-accb-3ba2262b04cc</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>КомпенсацияОтпускаШестидневкаБезУвольнения</Description>
+		<Синоним>Компенсация отпуска по шестидневке</Синоним>
+		<Комментарий>Компенсация отпуска по шестидневке</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

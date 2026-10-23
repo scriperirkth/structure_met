@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>b63aa11d-54ce-463a-8528-696535d5a4cc</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">f6989d16-f003-461a-b733-546a1936cbc8</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>ПОЛЕ</Description>
+		<Синоним>ПОЛЕ   </Синоним>
+		<Комментарий>Работа в экспедициях,партиях,отрядах, на участках и в бригадах на полевых работах в полевых условиях</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>

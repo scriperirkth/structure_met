@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Конфигурация xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Имя="УправлениеПроизводственнымПредприятием">
+<CatalogObject.Значения>
+		<Ref>9de8e13c-490e-44ff-9821-7df7f3d8a0c8</Ref>
+		<DeletionMark>false</DeletionMark>
+		<Owner xsi:type="CatalogRef.Объекты">7cf39eb3-5d76-4be9-93cd-9fe19b10b3fb</Owner>
+		<Parent>00000000-0000-0000-0000-000000000000</Parent>
+		<Code>0</Code>
+		<Description>СостояниеЗаказаНаWEBСайтеОтменен</Description>
+		<Синоним>Состояние заказа на WEB-сайте: Отменен</Синоним>
+		<Комментарий>Состояние заказа на WEB-сайте: Отменен</Комментарий>
+		<Предопределенное>true</Предопределенное>
+		<Типы/>
+	</CatalogObject.Значения>
+</Конфигурация>
